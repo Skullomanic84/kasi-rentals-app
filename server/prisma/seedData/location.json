@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "country": "South Africa",
+    "city": "Soweto",
+    "state": "Gauteng",
+    "address": "123 Vilakazi Street, Orlando West",
+    "postalCode": "1804",
+    "coordinates": "POINT(27.9087 -26.2361)"
+  },
+  {
+    "id": 2,
+    "country": "South Africa",
+    "city": "Diepkloof",
+    "state": "Gauteng",
+    "address": "456 Klipspruit Valley Rd",
+    "postalCode": "1862",
+    "coordinates": "POINT(27.9211 -26.2479)"
+  },
+  {
+    "id": 3,
+    "country": "South Africa",
+    "city": "Pimville",
+    "state": "Gauteng",
+    "address": "789 Modjadji Street",
+    "postalCode": "1809",
+    "coordinates": "POINT(27.9043 -26.2465)"
+  },
+  {
+    "id": 4,
+    "country": "South Africa",
+    "city": "Zola",
+    "state": "Gauteng",
+    "address": "101 Zola Drive",
+    "postalCode": "1868",
+    "coordinates": "POINT(27.8842 -26.2473)"
+  },
+  {
+    "id": 5,
+    "country": "South Africa",
+    "city": "Dobsonville",
+    "state": "Gauteng",
+    "address": "555 Elias Motsoaledi Rd",
+    "postalCode": "1863",
+    "coordinates": "POINT(27.8817 -26.2194)"
+  },
+  {
+    "id": 6,
+    "country": "South Africa",
+    "city": "Meadowlands",
+    "state": "Gauteng",
+    "address": "888 Makopano Street",
+    "postalCode": "1852",
+    "coordinates": "POINT(27.9051 -26.2308)"
+  },
+  {
+    "id": 7,
+    "country": "South Africa",
+    "city": "Mofolo",
+    "state": "Gauteng",
+    "address": "777 Mofolo North Road",
+    "postalCode": "1801",
+    "coordinates": "POINT(27.9012 -26.2390)"
+  },
+  {
+    "id": 8,
+    "country": "South Africa",
+    "city": "Mapetla",
+    "state": "Gauteng",
+    "address": "555 Mapetla Avenue",
+    "postalCode": "1861",
+    "coordinates": "POINT(27.8903 -26.2567)"
+  },
+  {
+    "id": 9,
+    "country": "South Africa",
+    "city": "Protea Glen",
+    "state": "Gauteng",
+    "address": "1234 Protea Blvd",
+    "postalCode": "1818",
+    "coordinates": "POINT(27.8412 -26.2723)"
+  },
+  {
+    "id": 10,
+    "country": "South Africa",
+    "city": "Dube",
+    "state": "Gauteng",
+    "address": "789 Dube Street",
+    "postalCode": "1800",
+    "coordinates": "POINT(27.9165 -26.2367)"
+  }
+]

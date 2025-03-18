@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "cognitoId": "af-south-1:010be580-60a1-70ae-780e-18a6fd94ad32",
+    "name": "Thabo Mokoena",
+    "email": "thabo.mokoena@example.com",
+    "phoneNumber": "+27 72 123 4567"
+  },
+  {
+    "id": 2,
+    "cognitoId": "af-south-1:23456789-90ab-cdef-1234-567890abcdef",
+    "name": "Noluthando Dlamini",
+    "email": "noluthando.dlamini@example.com",
+    "phoneNumber": "+27 73 987 6543"
+  },
+  {
+    "id": 3,
+    "cognitoId": "af-south-1:34567890-90ab-cdef-1234-567890abcdef",
+    "name": "Kagiso Ndlovu",
+    "email": "kagiso.ndlovu@example.com",
+    "phoneNumber": "+27 74 456 7890"
+  },
+  {
+    "id": 4,
+    "cognitoId": "af-south-1:45678901-90ab-cdef-1234-567890abcdef",
+    "name": "Lerato Khumalo",
+    "email": "lerato.khumalo@example.com",
+    "phoneNumber": "+27 75 234 5678"
+  },
+  {
+    "id": 5,
+    "cognitoId": "af-south-1:56789012-90ab-cdef-1234-567890abcdef",
+    "name": "Sibusiso Zulu",
+    "email": "sibusiso.zulu@example.com",
+    "phoneNumber": "+27 76 876 5432"
+  },
+  {
+    "id": 6,
+    "cognitoId": "af-south-1:67890123-90ab-cdef-1234-567890abcdef",
+    "name": "Zanele Mthembu",
+    "email": "zanele.mthembu@example.com",
+    "phoneNumber": "+27 77 345 6789"
+  },
+  {
+    "id": 7,
+    "cognitoId": "af-south-1:78901234-90ab-cdef-1234-567890abcdef",
+    "name": "Mpho Nkosi",
+    "email": "mpho.nkosi@example.com",
+    "phoneNumber": "+27 78 789 0123"
+  },
+  {
+    "id": 8,
+    "cognitoId": "af-south-1:89012345-90ab-cdef-1234-567890abcdef",
+    "name": "Bongani Sithole",
+    "email": "bongani.sithole@example.com",
+    "phoneNumber": "+27 79 678 9012"
+  },
+  {
+    "id": 9,
+    "cognitoId": "af-south-1:90123456-90ab-cdef-1234-567890abcdef",
+    "name": "Thandeka Ncube",
+    "email": "thandeka.ncube@example.com",
+    "phoneNumber": "+27 71 567 8901"
+  },
+  {
+    "id": 10,
+    "cognitoId": "af-south-1:01234567-90ab-cdef-1234-567890abcdef",
+    "name": "Simphiwe Dube",
+    "email": "simphiwe.dube@example.com",
+    "phoneNumber": "+27 72 456 7890"
+  }
+]
